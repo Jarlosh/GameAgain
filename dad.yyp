@@ -282,7 +282,7 @@
             "Key": "cde9a379-d3cc-4be3-8e15-36217b8dd153",
             "Value": {
                 "id": "4969e168-0fa5-4e35-9946-efc5770fd97c",
-                "resourcePath": "objects\\snake\\snake.yy",
+                "resourcePath": "objects\\snaker\\snaker.yy",
                 "resourceType": "GMObject"
             }
         },

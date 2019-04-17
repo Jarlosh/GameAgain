@@ -2,7 +2,7 @@
     "id": "cde9a379-d3cc-4be3-8e15-36217b8dd153",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "snake",
+    "name": "snaker",
     "eventList": [
         {
             "id": "10752ad6-8655-40c4-b021-faf36653f004",
