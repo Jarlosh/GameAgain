@@ -231,27 +231,11 @@
             }
         },
         {
-            "Key": "be4fc590-c6cc-4da8-8834-50e07009a2ef",
-            "Value": {
-                "id": "fe72444a-f20b-4664-baaa-aa5bf52044b3",
-                "resourcePath": "objects\\apple_spawner\\apple_spawner.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "c06f3525-e48d-48b8-9f8f-bfc4fcecae5b",
             "Value": {
                 "id": "9686a17d-18b6-4665-98cb-ad11200d2f47",
                 "resourcePath": "views\\c06f3525-e48d-48b8-9f8f-bfc4fcecae5b.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "c4e50a73-92a5-416c-b2f1-4522383e1952",
-            "Value": {
-                "id": "3702bcb2-2344-42f1-87c0-d5acfdf24472",
-                "resourcePath": "objects\\apple\\apple.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -276,22 +260,6 @@
                 "id": "7519b828-4dd0-423f-8ce2-4e16fedf8ca2",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "cde9a379-d3cc-4be3-8e15-36217b8dd153",
-            "Value": {
-                "id": "4969e168-0fa5-4e35-9946-efc5770fd97c",
-                "resourcePath": "objects\\snaker\\snaker.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ce9c7f7d-3c41-4cab-99eb-d8bd8aa540bd",
-            "Value": {
-                "id": "e6b15aa6-555a-4c85-95be-d364663b3adb",
-                "resourcePath": "objects\\wall\\wall.yy",
-                "resourceType": "GMObject"
             }
         },
         {
